@@ -1,4 +1,4 @@
-package estudos.Izequiel.sintaxejava;
+package estudos.Izequiel.sintaxejava.trilhaDIO;
 
 public class MinhaClasse {
 
